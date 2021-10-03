@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/tulu9777/nu/blob/master/assets/webpublic/logo.png" height="60"><br>
+<img src="https://github.com/tulu9777/nj/blob/master/assets/webpublic/logo.png" height="75"><br>
 A CLOUD BASED REMOTE ANDROID MANAGMENT SUITE, POWERED BY NODEJS
 </p>
 <a href="#"><img title="Mobile in HACKER" src="https://img.shields.io/badge/MOBILE%20IN%20-HACKER-orange?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>

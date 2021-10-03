@@ -2,9 +2,87 @@
   "admin": {
     "username": "admin",
     "password": "21232f297a57a5a743894a0e4a801fc3",
-    "loginToken": "01290563adb55bf86d8ea52ffbb7f2c0",
-    "logs": [],
+    "loginToken": "114762008fb079c839d80f2e131a5328",
+    "logs": [
+      {
+        "time": "2021-10-03T11:21:55.374Z",
+        "type": "INFO",
+        "message": "6b716fb300b65060 Connected"
+      },
+      {
+        "time": "2021-10-03T11:21:55.697Z",
+        "type": "INFO",
+        "message": "6b716fb300b65060 Notification Recieved"
+      },
+      {
+        "time": "2021-10-03T11:21:56.077Z",
+        "type": "INFO",
+        "message": "6b716fb300b65060 Notification Recieved"
+      },
+      {
+        "time": "2021-10-03T11:21:56.079Z",
+        "type": "INFO",
+        "message": "6b716fb300b65060 Notification Recieved"
+      },
+      {
+        "time": "2021-10-03T11:21:56.080Z",
+        "type": "INFO",
+        "message": "6b716fb300b65060 Notification Recieved"
+      },
+      {
+        "time": "2021-10-03T11:21:56.081Z",
+        "type": "INFO",
+        "message": "6b716fb300b65060 Notification Recieved"
+      },
+      {
+        "time": "2021-10-03T11:21:56.082Z",
+        "type": "INFO",
+        "message": "6b716fb300b65060 Notification Recieved"
+      },
+      {
+        "time": "2021-10-03T11:21:56.083Z",
+        "type": "INFO",
+        "message": "6b716fb300b65060 Notification Recieved"
+      },
+      {
+        "time": "2021-10-03T11:23:59.238Z",
+        "type": "INFO",
+        "message": "6b716fb300b65060 Notification Recieved"
+      }
+    ],
     "ipLog": []
   },
-  "clients": []
+  "clients": [
+    {
+      "clientID": "6b716fb300b65060",
+      "firstSeen": "2021-10-03T11:21:55.367Z",
+      "lastSeen": "2021-10-03T11:21:55.367Z",
+      "isOnline": true,
+      "dynamicData": {
+        "clientIP": "223.176.117.162",
+        "clientGeo": {
+          "range": [
+            3752883584,
+            3752883711
+          ],
+          "country": "IN",
+          "region": "SK",
+          "eu": "0",
+          "timezone": "Asia/Kolkata",
+          "city": "Gangtok",
+          "ll": [
+            27.3333,
+            88.6167
+          ],
+          "metro": 0,
+          "area": 500
+        },
+        "device": {
+          "model": "POCO X2",
+          "manufacture": "Xiaomi",
+          "version": "11"
+        }
+      }
+    }
+  ]
 }

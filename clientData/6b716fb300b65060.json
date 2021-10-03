@@ -1,0 +1,82 @@
+{
+  "clientID": "6b716fb300b65060",
+  "CommandQue": [],
+  "SMSData": [],
+  "CallData": [],
+  "contacts": [],
+  "wifiNow": [],
+  "wifiLog": [],
+  "clipboardLog": [],
+  "notificationLog": [
+    {
+      "appName": "android",
+      "title": "Choose input method",
+      "content": "Multilingual typing - Gboard",
+      "postTime": 1633259455042,
+      "key": "-1|android|8|null|1000",
+      "hash": "56fe3709a07774ad88b7fc4cf424b208"
+    },
+    {
+      "appName": "com.whatsapp",
+      "title": "🅵🆄🅻🅻 🆂🅲🆁🅴🅴🅽 🅷🅳 4🅺 🆂🆃🅰🆃🆄🆂 (2 messages): +91 97770 40759",
+      "content": "🎥 Video (0:20)",
+      "postTime": 1633259632480,
+      "key": "999|com.whatsapp|1|e6TvrN2vP28YwuO/FzXQ76ikDhjI5kpbHF5L/k6lmJA=\n|99910261",
+      "hash": "7af9740ff6bb8073dd51ab0e2ee1a057"
+    },
+    {
+      "appName": "com.whatsapp",
+      "title": "🆂🅼🅸🅻🅴 🅿🅻🅴🅰🆂🅴 3🅳 (1185 messages): +91 83289 48702",
+      "content": "https://fb.watch/8piv7xDgFQ/",
+      "postTime": 1633259633096,
+      "key": "999|com.whatsapp|1|B+/Rl/VzCBAIvf9S5KEt5Kmqqe2/9mcaz6TweVjKX4A=\n|99910261",
+      "hash": "775b548f345f86e84f633b69e9c4b3ee"
+    },
+    {
+      "appName": "com.whatsapp",
+      "title": "WhatsApp",
+      "content": "1187 messages from 2 chats",
+      "postTime": 1633259633111,
+      "key": "999|com.whatsapp|1|null|99910261",
+      "hash": "887f68cb77039b54040ad05c9c3b2122"
+    },
+    {
+      "appName": "com.truecaller",
+      "title": "Surya Kanta Sahoo",
+      "content": "Number identified in WhatsApp",
+      "postTime": 1633259633600,
+      "key": "0|com.truecaller|2131365192|null|10433",
+      "hash": "1a735b6ddcfeeb51f64f124d2d45e754"
+    },
+    {
+      "appName": "com.nemo.vidmate",
+      "title": "Famous Chicken Dum Biryani Rs. 100/- Only #suratfood #shorts",
+      "content": "",
+      "postTime": 1633259695736,
+      "key": "0|com.nemo.vidmate|15210235|null|10592",
+      "hash": "c4be6837beb5c0c573bdb614fa063ae3"
+    },
+    {
+      "appName": "com.google.android.youtube",
+      "content": "Soul Vs TsmFtx 4v4 intense Fight 🔥 || Mavi || Scout || regaltos || mortal || Scout pov | bgmi scrims",
+      "postTime": 1633259722036,
+      "key": "0|com.google.android.youtube|99|unwatched-channel-notifications|10208",
+      "hash": "310b3623ea5cbb3b07a220fadd730344"
+    },
+    {
+      "appName": "com.google.android.youtube",
+      "content": "Apple iOS 15 & iPhone 13 Pro Theme & Widgets Install in Xiaomi Phones 🔥 Without Root",
+      "postTime": 1633260238034,
+      "key": "0|com.google.android.youtube|99|UCPBEzVBqBeBFe9xC_FNhUTQ|10208",
+      "hash": "2de0cde7336c6b964f5db7c8a32f13eb"
+    }
+  ],
+  "enabledPermissions": [],
+  "apps": [],
+  "GPSData": [],
+  "GPSSettings": {
+    "updateFrequency": 0
+  },
+  "downloads": [],
+  "currentFolder": []
+}
